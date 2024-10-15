@@ -7,3 +7,5 @@ https://www.androidos.net.cn/android/9.0.0_r8/xref/frameworks/native/libs/binder
 
 
 view绘制1 :  https://www.bilibili.com/video/BV1EE421N7zk?t=1522.9&p=56
+
+   `ActivityThread.java:handleResumeActivity():wm.addView(decor,...);`
